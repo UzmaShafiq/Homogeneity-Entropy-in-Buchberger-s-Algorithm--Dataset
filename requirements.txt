@@ -1,0 +1,6 @@
+sympy==1.10.1
+numpy
+scipy
+pandas
+matplotlib
+jupyter
